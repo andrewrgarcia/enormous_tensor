@@ -1,4 +1,4 @@
-# enormous_tensor
+# enormous_tensors
 This is a very large (random) tensor made to test the computer graphics of advanced threeJS rendering methods
 
 <a href="https://thisisandrewgarcia.com/crystalview/index.html"><b>crystalview/index.html</b></a> calls and processes <a href="https://github.com/andrewrgarcia/enormous_tensor/blob/main/large_hollow.js"><b>large_hollow.js</b></a>
